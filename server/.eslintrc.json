@@ -1,0 +1,23 @@
+{
+    "env": {
+        "es6": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "init-declarations": [
+            "error",
+            "always"
+        ]
+    }
+}
